@@ -1,0 +1,13 @@
+# Ignore secrets
+.streamlit/secrets.toml
+
+# Python junk
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
